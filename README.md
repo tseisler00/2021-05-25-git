@@ -20,3 +20,9 @@
 
 - `.gitignore`: file that pattern  matches files to ignore
 - `.gitkeep`: convention to keep an empty folder
+
+## remotes
+
+- `git remote add <NAME> <URL>`: point to the rmeote url. <NAME> is usually "origin"
+- `git push <WHERE> <WHAT>`: local repo -> remote
+- `git pull <WHERE> <WHAT>`: remote -> local 
