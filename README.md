@@ -26,3 +26,12 @@
 - `git remote add <NAME> <URL>`: point to the rmeote url. <NAME> is usually "origin"
 - `git push <WHERE> <WHAT>`: local repo -> remote
 - `git pull <WHERE> <WHAT>`: remote -> local 
+    
+## branches
+    
+How to rename "master" to "main"
+    
+1. `git checkut -b main`
+2. fix default branch in github
+3. `git push origin main`
+    
