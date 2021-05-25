@@ -1,4 +1,4 @@
-# 2021-05-25 git 
+# 2021-05-25 Git Basics
 
 - `git init`: is intialize git repo in current locaiton
 - `git status`: gives you the status
@@ -21,13 +21,13 @@
 - `.gitignore`: file that pattern  matches files to ignore
 - `.gitkeep`: convention to keep an empty folder
 
-## remotes
+## Remotes
 
 - `git remote add <NAME> <URL>`: point to the rmeote url. <NAME> is usually "origin"
 - `git push <WHERE> <WHAT>`: local repo -> remote
 - `git pull <WHERE> <WHAT>`: remote -> local 
     
-## branches
+## Branches
     
 How to rename "master" to "main"
     
